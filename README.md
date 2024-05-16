@@ -74,3 +74,14 @@ Pour visualiser et gérer votre base de données via une interface graphique, ut
       ![Sélection du projet React](./docs/netlify1.png)
     - Netlify configurera automatiquement les étapes de build en fonction de votre projet.
     - Cliquez sur `Deploy site` pour lancer le déploiement.
+
+## Conclusion
+
+Vous avez maintenant déployé un serveur PHP sur Render, une base de données sur AlwaysData et un client React sur Netlify. Votre application est désormjsona en production et accessible à tous. N'hésitez pas à consulter la documentation de chaque service pour en savoir plus sur les fonctionnalités avancées.
+
+## Annexe
+
+-   [Documentation AlwaysData](https://help.alwaysdata.com/)
+-   [Documentation Render](https://render.com/docs)
+-   [Documentation Netlify](https://docs.netlify.com/)
+-   [Repository GitHub](https://github.com/GorskiAnthony/template_jsphp)
